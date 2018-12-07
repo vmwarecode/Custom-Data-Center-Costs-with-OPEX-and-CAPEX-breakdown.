@@ -1,0 +1,1 @@
+{"29b2b631-1f32-4695-852b-10117f4b1318":{"resourceKinds":[{"resourceKindKey":"HostSystem","adapterKindKey":"VMWARE"}],"modificationTime":1544198254938,"name":"JT-VM OPEX Rollup (Host)","formula":"sum(${adaptertype=VMWARE, objecttype=VirtualMachine, metric=Super Metric|sm_f385cd82-625d-4154-98af-441a2bc32134, depth=1})","description":""}}

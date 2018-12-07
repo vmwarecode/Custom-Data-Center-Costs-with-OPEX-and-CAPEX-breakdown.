@@ -1,0 +1,1 @@
+{"e4f3fa5c-b1dd-49cd-a47e-a51564ea2984":{"resourceKinds":[{"resourceKindKey":"CustomDatacenter","adapterKindKey":"VMWARE"}],"modificationTime":1544198168135,"name":"JT-CDC-Cap Cost","formula":"sum((${this, metric=Super Metric|sm_3ab4f0b7-cc7f-4ef2-8fa5-c04eea3bafd9})-((${this, metric=cost|hostLaborTotalCost}+${this, metric=cost|facilitiesTotalCost})))","description":""}}

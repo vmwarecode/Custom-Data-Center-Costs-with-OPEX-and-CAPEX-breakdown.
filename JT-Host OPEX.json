@@ -1,0 +1,1 @@
+{"2f953d71-4a1f-4a36-a0e7-efcd66ac857c":{"resourceKinds":[{"resourceKindKey":"HostSystem","adapterKindKey":"VMWARE"},{"resourceKindKey":"CustomDatacenter","adapterKindKey":"VMWARE"}],"modificationTime":1544198242392,"name":"JT-Host OPEX","formula":"sum((${this, metric=cost|facilitiesTotalCost})+(${this, metric=cost|hostLaborTotalCost}))","description":""}}

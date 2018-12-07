@@ -1,0 +1,1 @@
+{"ea60ed35-2b7b-420f-a436-8ea0c2e4834d":{"resourceKinds":[{"resourceKindKey":"CustomDatacenter","adapterKindKey":"VMWARE"}],"modificationTime":1544198366413,"name":"JT-Total Cost (VC Level)","formula":"sum(${adaptertype=VMWARE, objecttype=ClusterComputeResource, metric=cost|totalCost, depth=3}) ","description":""}}

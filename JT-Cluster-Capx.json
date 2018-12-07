@@ -1,0 +1,1 @@
+{"600f6288-9768-41c3-86ed-f1637a434b38":{"resourceKinds":[{"resourceKindKey":"ClusterComputeResource","adapterKindKey":"VMWARE"}],"modificationTime":1544198276268,"name":"JT-Cluster-Capx","formula":"${this, metric=cost|totalCpuCost}-${this, metric=Super Metric|sm_3e20422f-d619-4e7e-9d6a-d6e21cdc8c1e}","description":""}}

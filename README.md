@@ -1,1 +1,0 @@
-# Custom-Data-Center-Costs-with-OPEX-and-CAPEX-breakdown.

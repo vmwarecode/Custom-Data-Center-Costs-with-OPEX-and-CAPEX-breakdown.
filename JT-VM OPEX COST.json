@@ -1,0 +1,1 @@
+{"f385cd82-625d-4154-98af-441a2bc32134":{"resourceKinds":[{"resourceKindKey":"CustomDatacenter","adapterKindKey":"VMWARE"},{"resourceKindKey":"VirtualMachine","adapterKindKey":"VMWARE"}],"modificationTime":1544198224316,"name":"JT-VM OPEX COST","formula":"${this, metric=cost|osLaborTotalCost}+${this, metric=cost|viLaborTotalCost}","description":""}}

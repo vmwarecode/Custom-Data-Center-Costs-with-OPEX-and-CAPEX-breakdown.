@@ -1,0 +1,1 @@
+{"de3f1f75-240c-4019-902c-a7886bcdeace":{"resourceKinds":[{"resourceKindKey":"CustomDatacenter","adapterKindKey":"VMWARE"}],"modificationTime":1544198261640,"name":"JT-CDC-CAPEX Total","formula":"${this, metric=Super Metric|sm_ea60ed35-2b7b-420f-a436-8ea0c2e4834d}-${this, metric=Super Metric|sm_e13965a3-3841-48e1-aa3f-4ebef38f96e0}","description":""}}

@@ -1,0 +1,1 @@
+{"15337853-7564-4af6-81e0-663355509f9c":{"resourceKinds":[{"resourceKindKey":"HostSystem","adapterKindKey":"VMWARE"}],"modificationTime":1544198296553,"name":"JT-Host CapX","formula":"sum((${this, metric=cost|hardwareTotalCost})-((${this, metric=cost|hostLaborTotalCost})+(${this, metric=cost|facilitiesTotalCost})))","description":""}}

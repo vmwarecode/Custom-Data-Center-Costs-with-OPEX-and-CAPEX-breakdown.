@@ -1,0 +1,1 @@
+{"687c3579-5fc8-4a72-aa8b-22f0d0c1c17c":{"resourceKinds":[{"resourceKindKey":"ClusterComputeResource","adapterKindKey":"VMWARE"}],"modificationTime":1544198248562,"name":"JT-VM OPEX Rollup (Cluster)","formula":"sum(${adaptertype=VMWARE, objecttype=HostSystem, metric=Super Metric|sm_29b2b631-1f32-4695-852b-10117f4b1318, depth=1})","description":""}}
